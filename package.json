@@ -1,0 +1,10 @@
+{
+  "name": "contactForm",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.560.0",
+    "axios": "^0.18.0"
+  }
+}
