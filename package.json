@@ -2,9 +2,15 @@
   "name": "contactForm",
   "version": "0.0.1",
   "private": true,
+  "type": "module",
   "scripts": {},
   "dependencies": {
     "aws-sdk": "^2.560.0",
     "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.4",
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
   }
 }
